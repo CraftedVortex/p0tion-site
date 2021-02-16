@@ -1,11 +1,11 @@
 {
     "name": "p0tion",
-    "identifier": "fill_in_later",
+    "identifier": "com.p0tion-Team.p0tion",
     "sourceURL": "fill_in_later",
     "apps": [
       {
         "name": "p0tion",
-        "bundleIdentifier": "fill_in_later",
+        "bundleIdentifier": "com.p0tion-Team.p0tion",
         "developerName": "p0tion Team",
         "subtitle": "First semi-untethered iOS 14 jailbreak.",
         "version": "1.0",
