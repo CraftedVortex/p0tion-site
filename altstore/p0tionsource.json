@@ -1,0 +1,49 @@
+{
+    "name": "p0tion",
+    "identifier": "fill_in_later",
+    "sourceURL": "fill_in_later",
+    "apps": [
+      {
+        "name": "p0tion",
+        "bundleIdentifier": "fill_in_later",
+        "developerName": "p0tion Team",
+        "subtitle": "First semi-untethered iOS 14 jailbreak.",
+        "version": "1.0",
+        "versionDate": "2021-2-19",
+        "versionDescription": "Works on iOS 12-14.3",
+        "downloadURL": "fill_in_later",
+        "localizedDescription": "Supporting iOS Versions: 12-14.3.\np0tion is the first ever semi-untethered jailbreak working on all devices through iOS 12 - 14.3! It comes with Sileo for a more modern jailbreak feel and will kick off iOS 14's jailbreaking era!",
+        "iconURL": "fill_in_later",
+        "tintColor": "D287F4",
+        "size": 26463301,
+        "beta": true,
+        "screenshotURLs": [
+          "fill_in_later",
+          "fill_in_later",
+          "fill_in_later"
+        ]
+      }
+    ],
+    "news": [
+      {
+        "title": "p0tion is now in beta!",
+        "identifier": "p0tion-beta-start",
+        "caption": "Supports iOS 12-14.3",
+        "tintColor": "D287F4",
+        "imageURL": "fill_in_later",
+        "appID": "fill_in_later",
+        "date": "2021-2-19",
+        "notify": true
+      },
+         {
+        "title": "p0tion Repo",
+        "identifier": "welcome-to-p0tion-repo",
+        "caption": "p0tion is now on AltStore!",
+        "tintColor": "D287F4",
+        "url": "fill_in_later",
+        "date": "2021-2-19T12:59:00-07:00",
+        "notify": false
+      }
+    ],
+    "userInfo": {}
+  }
