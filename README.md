@@ -2,7 +2,7 @@
 
 Website for the (upcoming) p0tion jailbreak
 
-### Devloping
+### Developing
 
 #### Note: If you are on a Windows machine, make sure you have git installed.
 
