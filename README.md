@@ -13,4 +13,4 @@ Install the node modules\
 `npm install`
 
 To use the development environment, type `npm run dev`. This will start up a development server with the page at http://localhost:1234 \
-To build the website for production, type `npm run build`. This will generate the minimal files in the ./docs folder.
+To build the website for production, type `npm run build`. This will generate the compiled files in the ./dist folder.
